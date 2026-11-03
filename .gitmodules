@@ -1,0 +1,4 @@
+[submodule "proj_ws/src/realsense-ros"]
+	path = proj_ws/src/realsense-ros
+	url = https://github.com/realsenseai/realsense-ros.git
+	branch = r/4.58.4
